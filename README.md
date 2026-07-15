@@ -31,6 +31,19 @@
 
 ---
 
+## 项目截图
+
+<img width="686" height="1211" alt="屏幕截图 2026-07-02 173522" src="https://github.com/user-attachments/assets/a84662d1-64a6-43b2-8fb1-b0ca1581f9ac" />
+<img width="703" height="1198" alt="屏幕截图 2026-07-01 182213" src="https://github.com/user-attachments/assets/fe888866-891f-4d59-8f0b-c7c3755de357" />
+<img width="751" height="1199" alt="屏幕截图 2026-07-02 173513" src="https://github.com/user-attachments/assets/c55fcb56-dfc7-4208-968e-da339bfb2beb" />
+<img width="653" height="1162" alt="屏幕截图 2026-07-02 173128" src="https://github.com/user-attachments/assets/9deaca59-15ed-4653-ab2d-4196e2848493" />
+<img width="647" height="1149" alt="屏幕截图 2026-07-02 173437" src="https://github.com/user-attachments/assets/8ad38c89-4c9b-4e16-aa8c-9c84a49c5a98" />
+<img width="814" height="717" alt="屏幕截图 2026-07-02 173447" src="https://github.com/user-attachments/assets/d573edfd-fc3b-4809-8210-95af1625f5a1" />
+<img width="686" height="1190" alt="屏幕截图 2026-07-02 173450" src="https://github.com/user-attachments/assets/3c1ab20b-1c06-4f5c-a544-1deb23fb0f91" />
+<img width="778" height="1081" alt="屏幕截图 2026-07-02 173455" src="https://github.com/user-attachments/assets/56534299-e296-4fa0-b8fe-3297d2b601dd" />
+
+---
+
 ## 🛠 技术栈
 
 ### 前端
